@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   home-assistant:
   - apiVersion: v2
+    appVersion: 2026.5.0
+    created: "2026-05-09T08:30:37.234644942Z"
+    description: A Helm chart for Kubernetes
+    digest: 3de597400aab503a13facb6c912b3ebfb30e6fade475a72c3812f4d56b687006
+    name: home-assistant
+    type: application
+    urls:
+    - https://github.com/sordfish/home-assistant-helm-chart/releases/download/home-assistant-0.1.6/home-assistant-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
     appVersion: 2025.12.0
     created: "2025-12-05T17:49:44.407116045Z"
     description: A Helm chart for Kubernetes
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://github.com/sordfish/home-assistant-helm-chart/releases/download/home-assistant-0.1.1/home-assistant-0.1.1.tgz
     version: 0.1.1
-generated: "2025-12-05T17:49:44.407138076Z"
+generated: "2026-05-09T08:30:37.234675909Z"
